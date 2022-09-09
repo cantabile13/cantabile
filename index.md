@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects 
 
-[Analysis on L.A. City Crime](/sample_page)
+[Analysis on L.A. City Crime](/LA_City)
 <img src="images/Starting Page.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Categorical Clustering in Python using K-Modes](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Explore More
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
