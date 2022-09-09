@@ -5,7 +5,7 @@
 ### Recent Projects 
 
 [Analysis on L.A. City Crime](/LA_City)
-<img src="images/Starting Page.png?raw=true"/>
+<img src="images/P1/P1_StartingPage.png?raw=true"/>
 
 ---
 [Categorical Clustering in Python using K-Modes](/pdf/sample_presentation.pdf)
