@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## Analysis on L.A City Crime Rate
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. However, it has an issue going with its crime rate. This analysis covers the crime rate in Los Angeles. Please note that this was a group project consisted of 4 people. My involvement was in all steps of the analysis, starting from cleaning the dataset, gathering more data to correlate, analysis using python, visualization in tableau, and compiling everything in the deck using canva. The final dataset consist of approximately 1M rows and 30 columns.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
@@ -22,7 +22,7 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Starting Page.png?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
