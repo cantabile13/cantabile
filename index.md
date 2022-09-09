@@ -4,7 +4,7 @@
 
 ### Recent Projects 
 
-[Analysis on L.A. City Crime](/LA_City)
+[Analysis on L.A. City Crime](/project/p1-lacity.md)
 <img src="images/P1/P1_StartingPage.png?raw=true"/>
 
 ---
