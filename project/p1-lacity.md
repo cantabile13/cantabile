@@ -1,7 +1,7 @@
 ## Analysis on L.A City Crime Rate
 
 ### Project description
-<p style="font-size:12px"><br><i>Year</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
+<p style="font-size:14px"><i>Year</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
 <br><i>Dataset</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L.A City Crime, Population, Public Data
 <br><i>Tools</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, Tableau
 <br><i>Method</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DBScan, chloropleth, regression, correlation
