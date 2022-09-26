@@ -1,13 +1,13 @@
 ## Analysis on L.A City Crime Rate
 
 ### Project description
-<br>_Year_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
-<br>_Dataset_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L.A City Crime, Population, Public Data
-<br>_Tools_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, Tableau
-<br>_Method_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DBScan, chloropleth, regression, correlation
-<br>_Skills_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analysis, Data Communication
+<p style="font-size:12px"><br><i>Year</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
+<br><i>Dataset</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L.A City Crime, Population, Public Data
+<br><i>Tools</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, Tableau
+<br><i>Method</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DBScan, chloropleth, regression, correlation
+<br><i>Skills</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analysis, Data Communication
 
-Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. However, it has an issue going with its crime rate. This analysis covers the crime rate in Los Angeles.
+Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. However, it has an issue going with its crime rate. This analysis covers the crime rate in Los Angeles.</p>
 
 ><sub>Please note that this was a group project consisted of 4 people. My involvement was in all steps of the analysis, starting from cleaning the dataset, gathering more data to correlate, analysis using python, visualization in tableau, and compiling everything in the deck using canva. The final dataset consist of approximately 1M rows and 30 columns.</sub>
 
