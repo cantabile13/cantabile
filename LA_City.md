@@ -18,6 +18,7 @@ Explore the [Project Deck](https://www.canva.com/design/DAE7nuGlSOI/HGwzEbxcM2Ne
 </br>
 #### 1. Welcoming Page
 
+<p style="font-size:12px">This is demo text</p>
 Entering the visualization dashboard, I had made a welcoming page to create a brief explanation regarding our project background and goal. 
 
 The visualization consists of two pages. The first is to sketch information from the dataset, visual exploration to gain insights/problems. While the second is to show the analysis on the dataset, and of course, the insights and recommendation.
