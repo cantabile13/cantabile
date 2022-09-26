@@ -1,11 +1,11 @@
 ## Analysis on L.A City Crime Rate
 
 ### Project description
-_Year_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
-</br>_Dataset_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L.A City Crime, Population, Public Data
-</br>_Tools_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, Tableau
-</br>_Method_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DBScan, chloropleth, regression, correlation
-</br>_Skills_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analysis, Data Communication
+<br>_Year_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022</br>
+<br>_Dataset_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L.A City Crime, Population, Public Data</br>
+<br>_Tools_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, Tableau</br>
+<br>_Method_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DBScan, chloropleth, regression, correlation</br>
+<br>_Skills_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analysis, Data Communication</br>
 
 Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. However, it has an issue going with its crime rate. This analysis covers the crime rate in Los Angeles.
 
